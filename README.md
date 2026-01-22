@@ -1,7 +1,7 @@
 ## Pinned
 
 > ## [brainflip](https://github.com/GarethNobleLFG/brainflip)
-> **Tech Stack:** <span style="color: #61DAFB;">React</span> • <span style="color: #68A063;">Express</span> • <span style="color: #68A063;">Node.js</span> • <span style="color: #412991;">OpenAI</span>
+> **Tech Stack:** `React` • `Express` • `Node.js` • `OpenAI`
 > 
 > **AI powered smart view flashcards app for studying.**
 > 
@@ -10,7 +10,7 @@
 <br>
 
 > ## [google-sheets-summarizer](https://github.com/GarethNobleLFG/google-sheets-summarizer)
-> **Tech Stack:** <span style="color: #68A063;">Express</span> • <span style="color: #68A063;">Node.js</span> • <span style="color: #336791;">PostgreSQL</span> • <span style="color: #412991;">OpenAI</span> • <span style="color: #4285F4;">Google API</span>
+> **Tech Stack:** `Express` • `Node.js` • `PostgreSQL` • `OpenAI` • `Google API`
 > 
 > **AI summarizer tool for shared Google Sheets on Google Drive.**
 > 
@@ -19,7 +19,7 @@
 <br>
 
 > ## [opennote](https://github.com/GarethNobleLFG/opennote)
-> **Tech Stack:** <span style="color: #61DAFB;">React</span> • <span style="color: #68A063;">Express</span> • <span style="color: #68A063;">Node.js</span> • <span style="color: #4DB33D;">MongoDB</span> • <span style="color: #FF6900;">TinyMCE API</span>
+> **Tech Stack:** `React` • `Express` • `Node.js` • `MongoDB` • `TinyMCE API`
 > 
 > **Custom note taking tool with multi-function note cards on a whiteboard.**
 > 
@@ -28,7 +28,7 @@
 <br>
 
 > ## [Centrua/preppad](https://github.com/Centrua/preppad)
-> **Tech Stack:** <span style="color: #61DAFB;">React</span>
+> **Tech Stack:** `React`
 > 
 > **Smart inventory management for coffee shops, cafés, and restaurants.**
 > 
@@ -37,7 +37,7 @@
 <br>
 
 > ## [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
-> **Tech Stack:** <span style="color: #68A063;">Express</span> • <span style="color: #336791;">PostgreSQL</span> • <span style="color: #000000;">Square API</span> • <span style="color: #F22F46;">Twilio API</span>
+> **Tech Stack:** `Express` • `PostgreSQL` • `Square API` • `Twilio API`
 > 
 > **Backend API supporting the Preppad platform.**
 > 

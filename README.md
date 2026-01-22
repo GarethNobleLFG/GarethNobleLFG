@@ -1,4 +1,4 @@
-## Pinned
+## Pinned repositories
 
 > ## [nestwise](https://github.com/GarethNobleLFG/nestwise)
 > **Tech stack:** `React` • `TailwindCSS` • `Express` • `Node.js` • `MongoDB` • `LangChain` • `OpenAI API`

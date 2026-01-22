@@ -1,10 +1,16 @@
 ## Pinned
 
+> ## [nestwise](https://github.com/GarethNobleLFG/nestwise)
+> **Tech stack:** `React` • `TailwindCSS` • `Express` • `Node.js` • `MongoDB` • `LangChain` • `OpenAI API`
+> 
+> **Agentic-AI personal retirement planner.**
+> 
+> `JavaScript` • `Public`
 
 <br>
 
 > ## [Centrua/preppad](https://github.com/Centrua/preppad)
-> **Tech Stack:** `React`
+> **Tech stack:** `React`
 > 
 > **Smart inventory management for coffee shops, cafés, and restaurants.**
 > 
@@ -13,7 +19,7 @@
 <br>
 
 > ## [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
-> **Tech Stack:** `Express` • `PostgreSQL` • `Square API` • `Twilio API`
+> **Tech stack:** `Express` • `PostgreSQL` • `Square API` • `Twilio API`
 > 
 > **Backend API supporting the Preppad platform.**
 > 
@@ -22,7 +28,7 @@
 <br>
 
 > ## [google-sheets-summarizer](https://github.com/GarethNobleLFG/google-sheets-summarizer)
-> **Tech Stack:** `Express` • `Node.js` • `PostgreSQL` • `OpenAI` • `Google API`
+> **Tech stack:** `Express` • `Node.js` • `PostgreSQL` • `OpenAI API` • `Google API`
 > 
 > **AI summarizer tool for shared Google Sheets on Google Drive.**
 > 
@@ -31,7 +37,7 @@
 <br>
 
 > ## [opennote](https://github.com/GarethNobleLFG/opennote)
-> **Tech Stack:** `React` • `Express` • `Node.js` • `MongoDB` • `TinyMCE API`
+> **Tech stack:** `React` • `Express` • `Node.js` • `MongoDB` • `TinyMCE API`
 > 
 > **Custom note taking tool with multi-function note cards on a whiteboard.**
 > 
@@ -40,10 +46,8 @@
 <br>
 
 > ## [brainflip](https://github.com/GarethNobleLFG/brainflip)
-> **Tech Stack:** `React` • `Express` • `Node.js` • `OpenAI`
+> **Tech stack:** `React` • `Express` • `Node.js` • `OpenAI API`
 > 
 > **AI powered smart view flashcards app for studying.**
 > 
 > `JavaScript` • `Public`
-
-

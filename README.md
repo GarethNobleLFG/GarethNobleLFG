@@ -1,31 +1,26 @@
 ## Pinned Projects
 
-> ## [brainflip](https://github.com/GarethNobleLFG/brainflip)
+> ## [brainflip](https://github.com/GarethNobleLFG/brainflip) `React` • `Express` • `Node.js` • `OpenAI`
 > **AI powered smart view flashcards app for studying.**
 > 
-> **Tech Stack:** `React` • `Express` • `Node.js` • `OpenAI`  
 > `JavaScript` • `Public`
 
-> ## [google-sheets-summarizer](https://github.com/GarethNobleLFG/google-sheets-summarizer)
+> ## [google-sheets-summarizer](https://github.com/GarethNobleLFG/google-sheets-summarizer) `Express` • `Node.js` • `PostgreSQL` • `OpenAI` • `Google API`
 > **AI summarizer tool for shared Google Sheets on Google Drive.**
 > 
-> **Tech Stack:** `Express` • `Node.js` • `PostgreSQL` • `OpenAI` • `Google API`  
 > `JavaScript` • `Public`
 
-> ## [opennote](https://github.com/GarethNobleLFG/opennote)
+> ## [opennote](https://github.com/GarethNobleLFG/opennote) `React` • `Express` • `Node.js` • `MongoDB` • `TinyMCE API`
 > **Custom note taking tool with multi-function note cards on a whiteboard.**
 > 
-> **Tech Stack:** `React` • `Express` • `Node.js` • `MongoDB` • `TinyMCE API`  
 > `JavaScript` • `Public`
 
-> ## [Centrua/preppad](https://github.com/Centrua/preppad)
+> ## [Centrua/preppad](https://github.com/Centrua/preppad) `React`
 > **Smart inventory management for coffee shops, cafés, and restaurants.**
 > 
-> **Tech Stack:** `React`  
 > `JavaScript` • `Public`
 
-> ## [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
+> ## [Centrua/preppad-api](https://github.com/Centrua/preppad-api) `Express` • `PostgreSQL` • `Square API` • `Twilio API`
 > **Backend API supporting the Preppad platform.**
 > 
-> **Tech Stack:** `Express` • `PostgreSQL` • `Square API` • `Twilio API`  
 > `JavaScript` • `Public`

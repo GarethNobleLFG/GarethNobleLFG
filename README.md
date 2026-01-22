@@ -1,26 +1,26 @@
 ## 🚀 Pinned Projects
 
-> ### 🧠 [brainflip](https://github.com/GarethNobleLFG/brainflip)
+> ## [brainflip](https://github.com/GarethNobleLFG/brainflip)
 > **AI powered smart view flashcards app for studying.**
 > 
-> `JavaScript` • `Public` • *Learning & Education*
+> `JavaScript` • `HTML` • `CSS` • `Public`
 
-> ### 📊 [google-sheets-summarizer](https://github.com/GarethNobleLFG/google-sheets-summarizer)
+> ## [google-sheets-summarizer](https://github.com/GarethNobleLFG/google-sheets-summarizer)
 > **AI summarizer tool for shared Google Sheets on Google Drive.**
 > 
-> `JavaScript` • `Public` • *Productivity & Automation*
+> `JavaScript` • `Node.js` • `Google API` • `Public`
 
-> ### 📝 [opennote](https://github.com/GarethNobleLFG/opennote)
+> ## [opennote](https://github.com/GarethNobleLFG/opennote)
 > **Custom note taking tool with multi-function note cards on a whiteboard.**
 > 
-> `JavaScript` • `Public` • *Note-taking & Organization*
+> `JavaScript` • `Canvas API` • `HTML5` • `Public`
 
-> ### ☕ [Centrua/preppad](https://github.com/Centrua/preppad)
+> ## [Centrua/preppad](https://github.com/Centrua/preppad)
 > **Smart inventory management for coffee shops, cafés, and restaurants.**
 > 
-> `JavaScript` • `Public` • *Business Management*
+> `JavaScript` • `React` • `Node.js` • `Public`
 
-> ### 🔧 [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
+> ## [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
 > **Backend API supporting the Preppad platform.**
 > 
-> `JavaScript` • `Public` • *API & Backend*
+> `JavaScript` • `Node.js` • `Express` • `MongoDB` • `Public`

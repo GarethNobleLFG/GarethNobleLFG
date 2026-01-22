@@ -7,12 +7,16 @@
 > 
 > `JavaScript` • `Public`
 
+<br>
+
 > ## [google-sheets-summarizer](https://github.com/GarethNobleLFG/google-sheets-summarizer)
 > `Express` • `Node.js` • `PostgreSQL` • `OpenAI` • `Google API`
 > 
 > **AI summarizer tool for shared Google Sheets on Google Drive.**
 > 
 > `JavaScript` • `Public`
+
+<br>
 
 > ## [opennote](https://github.com/GarethNobleLFG/opennote)
 > `React` • `Express` • `Node.js` • `MongoDB` • `TinyMCE API`
@@ -21,12 +25,16 @@
 > 
 > `JavaScript` • `Public`
 
+<br>
+
 > ## [Centrua/preppad](https://github.com/Centrua/preppad)
 > `React`
 > 
 > **Smart inventory management for coffee shops, cafés, and restaurants.**
 > 
 > `JavaScript` • `Public`
+
+<br>
 
 > ## [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
 > `Express` • `PostgreSQL` • `Square API` • `Twilio API`

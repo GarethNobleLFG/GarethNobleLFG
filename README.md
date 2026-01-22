@@ -7,12 +7,16 @@
 > 
 > `JavaScript` • `Public`
 
+<br>
+
 > ## [Centrua/preppad](https://github.com/Centrua/preppad)
 > **Tech stack:** `React`
 > 
 > **Smart inventory management for coffee shops, cafés, and restaurants.**
 > 
 > `JavaScript` • `Public`
+
+<br>
 
 > ## [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
 > **Tech stack:** `Express` • `PostgreSQL` • `Square API` • `Twilio API`
@@ -21,12 +25,16 @@
 > 
 > `JavaScript` • `Public`
 
+<br>
+
 > ## [Centrua/AI-Agent](https://github.com/Centrua/AI-Agent)
 > **Tech stack:** `Express` • `Node.js` • `Google API` • `Eleven Labs Agent Platform Framework`
 > 
 > **AI caller agent for restaurants. Handles calls for reservations, orders, and more.**
 > 
 > `JavaScript` • `Public`
+
+<br>
 
 > ## [google-sheets-summarizer](https://github.com/GarethNobleLFG/google-sheets-summarizer)
 > **Tech stack:** `Express` • `Node.js` • `PostgreSQL` • `OpenAI API` • `Google API`
@@ -35,12 +43,16 @@
 > 
 > `JavaScript` • `Public`
 
+<br>
+
 > ## [opennote](https://github.com/GarethNobleLFG/opennote)
 > **Tech stack:** `React` • `Express` • `Node.js` • `MongoDB` • `TinyMCE API`
 > 
 > **Custom note taking tool with multi-function note cards on a whiteboard.**
 > 
 > `JavaScript` • `Public`
+
+<br>
 
 > ## [brainflip](https://github.com/GarethNobleLFG/brainflip)
 > **Tech stack:** `React` • `Express` • `Node.js` • `OpenAI API`

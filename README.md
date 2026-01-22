@@ -28,7 +28,7 @@
 <br>
 
 > ## [Centrua/AI-Agent](https://github.com/Centrua/AI-Agent)
-> **Tech stack:** `Express` • `Node.js` • `Google API` • `Eleven Labs Framework`
+> **Tech stack:** `Express` • `Node.js` • `Google API` • `Eleven Labs Agent Platform Framework`
 > 
 > **AI caller agent for restaurants. Handles calls for reservations, orders, and more.**
 > 

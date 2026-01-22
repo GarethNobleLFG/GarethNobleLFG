@@ -1,9 +1,21 @@
 ## Pinned
 
-> ## [brainflip](https://github.com/GarethNobleLFG/brainflip)
-> **Tech Stack:** `React` • `Express` • `Node.js` • `OpenAI`
+
+<br>
+
+> ## [Centrua/preppad](https://github.com/Centrua/preppad)
+> **Tech Stack:** `React`
 > 
-> **AI powered smart view flashcards app for studying.**
+> **Smart inventory management for coffee shops, cafés, and restaurants.**
+> 
+> `JavaScript` • `Public`
+
+<br>
+
+> ## [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
+> **Tech Stack:** `Express` • `PostgreSQL` • `Square API` • `Twilio API`
+> 
+> **Backend API supporting the Preppad platform.**
 > 
 > `JavaScript` • `Public`
 
@@ -27,18 +39,11 @@
 
 <br>
 
-> ## [Centrua/preppad](https://github.com/Centrua/preppad)
-> **Tech Stack:** `React`
+> ## [brainflip](https://github.com/GarethNobleLFG/brainflip)
+> **Tech Stack:** `React` • `Express` • `Node.js` • `OpenAI`
 > 
-> **Smart inventory management for coffee shops, cafés, and restaurants.**
+> **AI powered smart view flashcards app for studying.**
 > 
 > `JavaScript` • `Public`
 
-<br>
 
-> ## [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
-> **Tech Stack:** `Express` • `PostgreSQL` • `Square API` • `Twilio API`
-> 
-> **Backend API supporting the Preppad platform.**
-> 
-> `JavaScript` • `Public`

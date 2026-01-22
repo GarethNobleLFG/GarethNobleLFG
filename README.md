@@ -1,31 +1,26 @@
 ## 🚀 Pinned Projects
 
 > ### 🧠 [brainflip](https://github.com/GarethNobleLFG/brainflip)
+> **AI powered smart view flashcards app for studying.**
 > 
-> > **Description:** AI powered smart view flashcards app for studying.  
-> > **Tech Stack:** JavaScript  
-> > **Category:** Education
+> `JavaScript` • `Public` • *Learning & Education*
 
 > ### 📊 [google-sheets-summarizer](https://github.com/GarethNobleLFG/google-sheets-summarizer)
+> **AI summarizer tool for shared Google Sheets on Google Drive.**
 > 
-> > **Description:** AI summarizer tool for shared Google Sheets on Google Drive.  
-> > **Tech Stack:** JavaScript  
-> > **Category:** Productivity
+> `JavaScript` • `Public` • *Productivity & Automation*
 
 > ### 📝 [opennote](https://github.com/GarethNobleLFG/opennote)
+> **Custom note taking tool with multi-function note cards on a whiteboard.**
 > 
-> > **Description:** Custom note taking tool with multi-function note cards on a whiteboard.  
-> > **Tech Stack:** JavaScript  
-> > **Category:** Note-taking
+> `JavaScript` • `Public` • *Note-taking & Organization*
 
 > ### ☕ [Centrua/preppad](https://github.com/Centrua/preppad)
+> **Smart inventory management for coffee shops, cafés, and restaurants.**
 > 
-> > **Description:** Smart inventory management for coffee shops, cafés, and restaurants.  
-> > **Tech Stack:** JavaScript  
-> > **Category:** Business
+> `JavaScript` • `Public` • *Business Management*
 
 > ### 🔧 [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
+> **Backend API supporting the Preppad platform.**
 > 
-> > **Description:** Backend API supporting the Preppad platform.  
-> > **Tech Stack:** JavaScript  
-> > **Category:** API/Backend
+> `JavaScript` • `Public` • *API & Backend*

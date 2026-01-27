@@ -1,7 +1,7 @@
 ## Pinned repositories
 
 > ## [nestwise](https://github.com/GarethNobleLFG/nestwise)
-> **Tech stack:** `React` • `TailwindCSS` • `Express` • `Node.js` • `MongoDB` • `LangChain` • `OpenAI API`
+> **Tech stack:** `React` • `TailwindCSS` • `ShadCN` • `Framer Motion` • `Material UI` • `Python FastAPI` • `Node.js` • `MongoDB` • `LangChain` • `OpenAI API`
 > 
 > **Agentic-AI personal retirement planner.**
 > 
@@ -44,6 +44,13 @@
 
 > ## [brainflip](https://github.com/GarethNobleLFG/brainflip)
 > **Tech stack:** `React` • `Express` • `Node.js` • `OpenAI API`
+> 
+> **AI powered smart view flashcards app for studying.**
+> 
+> `JavaScript` • `Public`
+
+> ## [modern-frontend-designs](https://github.com/GarethNobleLFG/modern-frontend-designs)
+> **Tech stack:** `Next.js` • `React` • `TailwindCSS` • `ShadCN` • `Framer Motion`
 > 
 > **AI powered smart view flashcards app for studying.**
 > 

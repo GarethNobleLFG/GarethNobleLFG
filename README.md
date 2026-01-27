@@ -52,6 +52,6 @@
 > ## [modern-frontend-designs](https://github.com/GarethNobleLFG/modern-frontend-designs)
 > **Tech stack:** `Next.js` • `React` • `TailwindCSS` • `ShadCN` • `Framer Motion`
 > 
-> **AI powered smart view flashcards app for studying.**
+> **Several customly built frontend designs utilizing modern frameworks.**
 > 
 > `JavaScript` • `Public`

@@ -54,4 +54,4 @@
 > 
 > **Several customly built frontend designs utilizing modern frameworks.**
 > 
-> `JavaScript` • `Public`
+> `TypeScript` • `Public`

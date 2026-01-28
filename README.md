@@ -28,6 +28,13 @@
 > 
 > `JavaScript` • `Public`
 
+> ## [android-sms-forwarder](https://github.com/GarethNobleLFG/android-sms-forwarder)
+> **Tech stack:** `Android SDK` • `Electron` • `Node.js` • `Express` • `MongoDB`
+> 
+> **SMS forwarding system that displays Android text messages as desktop notifications on Windows.**
+> 
+> `Kotlin` • `JavaScript` • `Public`
+
 > ## [google-sheets-summarizer](https://github.com/GarethNobleLFG/google-sheets-summarizer)
 > **Tech stack:** `Express` • `Node.js` • `PostgreSQL` • `OpenAI API` • `Google API`
 > 

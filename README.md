@@ -31,7 +31,7 @@
 > ## [android-sms-forwarder](https://github.com/GarethNobleLFG/android-sms-forwarder)
 > **Tech stack:** `Android SDK` • `Electron` • `Node.js` • `Express` • `MongoDB`
 > 
-> **SMS forwarding system that displays Android text messages as desktop notifications on Windows.**
+> **SMS forwarding system utilizing custom built Android app that displays text messages as desktop notifications on Windows.**
 > 
 > `Kotlin` • `JavaScript` • `Public`
 

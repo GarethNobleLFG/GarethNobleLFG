@@ -45,7 +45,7 @@
 > ## [opennote](https://github.com/GarethNobleLFG/opennote)
 > **Tech stack:** `React` • `Express` • `Node.js` • `MongoDB` • `TinyMCE API`
 > 
-> **Custom note taking tool with multi-function note cards on a whiteboard.**
+> **A custom note-taking solution built around a custom built freehand whiteboard and multi-function note cards. The system consists of two main components working together to provide flexible, visual note capture and syncing.**
 > 
 > `JavaScript` • `Public`
 

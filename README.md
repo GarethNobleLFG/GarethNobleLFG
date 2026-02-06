@@ -15,7 +15,7 @@
 > `JavaScript` • `Public`
 
 > ## [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
-> **Tech stack:** `Express` • `PostgreSQL` • `Square API` • `Twilio API`
+> **Tech stack:** `Express` • `Node.js` • `PostgreSQL` • `Square API` • `Twilio API`
 > 
 > **Backend API supporting the Preppad platform.**
 > 

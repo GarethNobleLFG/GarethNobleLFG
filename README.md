@@ -35,10 +35,10 @@
 > 
 > `Kotlin` • `JavaScript` • `Public`
 
-> ## [google-sheets-summarizer](https://github.com/GarethNobleLFG/google-sheets-summarizer)
-> **Tech stack:** `Express` • `Node.js` • `PostgreSQL` • `Sequelize` • `OpenAI API` • `Google API`
+> ## [google-sheets-summarizer-app](https://github.com/GarethNobleLFG/google-sheets-summarizer-app)
+> **Tech stack:** `React` • `Express` • `Node.js` • `PostgreSQL` • `Sequelize` • `OpenAI API` • `Google API`
 > 
-> **AI summarizer tool for shared Google Sheets on Google Drive.**
+> **A full-stack web application that automatically extracts and summarizes content from Google Sheets using AI, delivering intelligent insights via email and SMS on customizable schedules.**
 > 
 > `JavaScript` • `Public`
 

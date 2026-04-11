@@ -40,7 +40,7 @@
 > 
 > **A full-stack web application that automatically extracts and summarizes content from Google Sheets using AI, delivering intelligent insights via email and SMS on customizable schedules.**
 > 
-> `JavaScript` • `Public`
+> `TypeScript` • `Public`
 
 > ## [opennote](https://github.com/GarethNobleLFG/opennote)
 > **Tech stack:** `React` • `Express` • `Node.js` • `MongoDB` • `TinyMCE API`

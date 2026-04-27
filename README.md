@@ -28,6 +28,13 @@
 > 
 > `JavaScript` • `Public`
 
+> ## [google-sheets-summarizer-app](https://github.com/GarethNobleLFG/google-sheets-summarizer-app)
+> **Tech stack:** `React` • `Express` • `Node.js` • `PostgreSQL` • `Sequelize` • `OpenAI API` • `Google API`
+> 
+> **A full-stack web application that automatically extracts and summarizes content from Google Sheets using AI, delivering intelligent insights via email and SMS on customizable schedules.**
+> 
+> `TypeScript` • `Public`
+
 > ## [android-sms-forwarder](https://github.com/GarethNobleLFG/android-sms-forwarder)
 > **Tech stack:** `Android SDK` • `Electron` • `Node.js` • `Express` • `MongoDB`
 > 
@@ -35,12 +42,12 @@
 > 
 > `Kotlin` • `JavaScript` • `Public`
 
-> ## [google-sheets-summarizer-app](https://github.com/GarethNobleLFG/google-sheets-summarizer-app)
-> **Tech stack:** `React` • `Express` • `Node.js` • `PostgreSQL` • `Sequelize` • `OpenAI API` • `Google API`
+> ## [recycle-agent](https://github.com/GarethNobleLFG/recycle-agent)
+> **Tech stack:** `React` • `Fast API` • `Node.js` • `Gemini API` • `Tensorflow` • `Keras`
 > 
-> **A full-stack web application that automatically extracts and summarizes content from Google Sheets using AI, delivering intelligent insights via email and SMS on customizable schedules.**
+> **A Smart Recycling Classifier web app that uses machine learning to analyze waste photos and predict material types, then provides disposal recommendations and location-specific recycling instructions.**
 > 
-> `TypeScript` • `Public`
+> `Jupyter Notebook` • `Public`
 
 > ## [opennote](https://github.com/GarethNobleLFG/opennote)
 > **Tech stack:** `React` • `Express` • `Node.js` • `MongoDB` • `TinyMCE API`

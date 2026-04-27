@@ -35,19 +35,19 @@
 > 
 > `TypeScript` • `Public`
 
+> ## [recycle-agent](https://github.com/GarethNobleLFG/recycle-agent)
+> **Tech stack:** `React` • `Fast API` • `Node.js` • `Gemini API` • `Tensorflow` • `Keras`
+> 
+> **A Smart Recycling Classifier web app that uses a customly trained machine learning model to analyze waste photos and predict material types, then provides disposal recommendations and location-specific recycling instructions.**
+> 
+> `Jupyter Notebook` • `Public`
+
 > ## [android-sms-forwarder](https://github.com/GarethNobleLFG/android-sms-forwarder)
 > **Tech stack:** `Android SDK` • `Electron` • `Node.js` • `Express` • `MongoDB`
 > 
 > **SMS forwarding system utilizing custom built Android app that displays text messages as desktop notifications on Windows.**
 > 
 > `Kotlin` • `JavaScript` • `Public`
-
-> ## [recycle-agent](https://github.com/GarethNobleLFG/recycle-agent)
-> **Tech stack:** `React` • `Fast API` • `Node.js` • `Gemini API` • `Tensorflow` • `Keras`
-> 
-> **A Smart Recycling Classifier web app that uses machine learning to analyze waste photos and predict material types, then provides disposal recommendations and location-specific recycling instructions.**
-> 
-> `Jupyter Notebook` • `Public`
 
 > ## [opennote](https://github.com/GarethNobleLFG/opennote)
 > **Tech stack:** `React` • `Express` • `Node.js` • `MongoDB` • `TinyMCE API`

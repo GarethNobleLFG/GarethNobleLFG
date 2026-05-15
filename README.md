@@ -1,9 +1,9 @@
 ## Pinned repositories
 
 > ## [nestwise](https://github.com/GarethNobleLFG/nestwise)
-> **Tech stack:** `React` • `Node.js` • `TailwindCSS` • `ShadCN` • `Framer Motion` • `Material UI` • `Python FastAPI` • `MongoDB` • `LangChain` • `OpenAI API`
+> **Tech stack:** `React` `Node.js` `TailwindCSS` `ShadCN` `Framer Motion` `Material UI` `Python FastAPI` `MongoDB` `LangChain` `OpenAI API`
 > 
-> **Languages:** `Python` • `JavaScript`
+> **Languages:** `Python` `JavaScript`
 > 
 > **Description:** **Agentic AI Retirement Guide.**
 > 

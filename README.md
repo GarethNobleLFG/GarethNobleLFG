@@ -5,7 +5,7 @@
 > 
 > **Languages:** `Python` • `JavaScript`
 > 
-> **Description:** Agentic AI Retirement Guide.
+> **Description:** **Agentic AI Retirement Guide.**
 > 
 > `Public`
 
@@ -23,7 +23,7 @@
 >
 > **Languages:** `JavaScript`
 > 
-> **Backend API supporting the Preppad platform.**
+> **Description:** **Backend API supporting the Preppad platform.**
 > 
 > `Public`
 
@@ -32,7 +32,7 @@
 > 
 > **Languages:** `JavaScript`
 > 
-> **AI caller agent for restaurants. Handles calls for reservations, orders, and more.**
+> **Description:** **AI caller agent for restaurants. Handles calls for reservations, orders, and more.**
 > 
 > `Private`
 
@@ -41,7 +41,7 @@
 >
 > **Languages:** `TypeScript`
 > 
-> **A full-stack web application that automatically extracts and summarizes content from Google Sheets using AI, delivering intelligent insights via email and SMS on customizable schedules.**
+> **Description:** **A full-stack web application that automatically extracts and summarizes content from Google Sheets using AI, delivering intelligent insights via email and SMS on customizable schedules.**
 > 
 > `Public`
 
@@ -50,7 +50,7 @@
 >
 > **Languages:** `Python`
 > 
-> **A Smart Recycling Classifier web app that uses a customly trained machine learning model to analyze waste photos and predict material types, then provides disposal recommendations and location-specific recycling instructions.**
+> **Description:** **A Smart Recycling Classifier web app that uses a customly trained machine learning model to analyze waste photos and predict material types, then provides disposal recommendations and location-specific recycling instructions.**
 > 
 > `Public`
 
@@ -59,7 +59,7 @@
 >
 > **Languages:** `Kotlin` • `JavaScript`
 > 
-> **Notification forwarding system utilizing custom built Android app that displays all push notifications as custom UI desktop notifications on Windows.**
+> **Description:** **Notification forwarding system utilizing custom built Android app that displays all push notifications as custom UI desktop notifications on Windows.**
 > 
 > `Public`
 
@@ -68,7 +68,7 @@
 >
 > **Languages:** `JavaScript`
 > 
-> **A custom note-taking solution built around a custom built freehand whiteboard and multi-function note cards. The system consists of two main components working together to provide flexible, visual note capture and syncing.**
+> **Description:** **A custom note-taking solution built around a custom built freehand whiteboard and multi-function note cards. The system consists of two main components working together to provide flexible, visual note capture and syncing.**
 > 
 > `Public`
 
@@ -77,7 +77,7 @@
 >
 > **Languages:** `JavaScript`
 > 
-> **AI powered smart view flashcards app for studying.**
+> **Description:** **AI powered smart view flashcards app for studying.**
 > 
 > `Public`
 
@@ -86,6 +86,6 @@
 >
 > **Languages:** `TypeScript`
 > 
-> **Several customly built frontend designs utilizing modern frameworks.**
+> **Description:** **Several customly built frontend designs utilizing modern frameworks.**
 > 
 > `Public`

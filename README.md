@@ -6,6 +6,7 @@
 > **Agentic AI Retirement Guide.**
 > 
 > `Python` • `JavaScript`
+> 
 > `Public`
 
 > ## [Centrua/preppad](https://github.com/Centrua/preppad)
@@ -14,6 +15,7 @@
 > **Smart inventory management for coffee shops, cafés, and restaurants.**
 > 
 > `JavaScript`
+> 
 > `Public`
 
 > ## [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
@@ -22,6 +24,7 @@
 > **Backend API supporting the Preppad platform.**
 > 
 > `JavaScript`
+> 
 > `Public`
 
 > ## [Centrua/AI-Agent](https://github.com/Centrua/AI-Agent)
@@ -30,6 +33,7 @@
 > **AI caller agent for restaurants. Handles calls for reservations, orders, and more.**
 > 
 > `JavaScript`
+> 
 > `Private`
 
 > ## [google-sheets-summarizer-app](https://github.com/GarethNobleLFG/google-sheets-summarizer-app)
@@ -38,6 +42,7 @@
 > **A full-stack web application that automatically extracts and summarizes content from Google Sheets using AI, delivering intelligent insights via email and SMS on customizable schedules.**
 > 
 > `TypeScript`
+> 
 > `Public`
 
 > ## [recycle-agent](https://github.com/GarethNobleLFG/recycle-agent)
@@ -46,6 +51,7 @@
 > **A Smart Recycling Classifier web app that uses a customly trained machine learning model to analyze waste photos and predict material types, then provides disposal recommendations and location-specific recycling instructions.**
 > 
 > `Jupyter Notebook`
+> 
 > `Public`
 
 > ## [android-to-desktop-notifications-forwarder](https://github.com/GarethNobleLFG/android-to-desktop-notifications-forwarder)
@@ -54,6 +60,7 @@
 > **Notification forwarding system utilizing custom built Android app that displays all push notifications as custom UI desktop notifications on Windows.**
 > 
 > `Kotlin` • `JavaScript`
+> 
 > `Public`
 
 > ## [opennote](https://github.com/GarethNobleLFG/opennote)
@@ -62,6 +69,7 @@
 > **A custom note-taking solution built around a custom built freehand whiteboard and multi-function note cards. The system consists of two main components working together to provide flexible, visual note capture and syncing.**
 > 
 > `JavaScript`
+> 
 > `Public`
 
 > ## [brainflip](https://github.com/GarethNobleLFG/brainflip)
@@ -70,6 +78,7 @@
 > **AI powered smart view flashcards app for studying.**
 > 
 > `JavaScript`
+> 
 > `Public`
 
 > ## [modern-frontend-designs](https://github.com/GarethNobleLFG/modern-frontend-designs)
@@ -78,4 +87,5 @@
 > **Several customly built frontend designs utilizing modern frameworks.**
 > 
 > `TypeScript`
+> 
 > `Public`

@@ -5,7 +5,7 @@
 > 
 > **Languages:** `Python` • `JavaScript`
 > 
-> **Description:** **Agentic AI Retirement Guide.**
+> **Description:** Agentic AI Retirement Guide.
 > 
 > `Public`
 

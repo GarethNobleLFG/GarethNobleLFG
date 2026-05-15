@@ -5,7 +5,7 @@
 > 
 > **Languages:** `Python` • `JavaScript`
 > 
-> **Agentic AI Retirement Guide.**
+> **Description:** **Agentic AI Retirement Guide.**
 > 
 > `Public`
 
@@ -14,7 +14,7 @@
 > 
 > **Languages:** `JavaScript`
 > 
-> **Smart inventory management for coffee shops, cafés, and restaurants.**
+> **Description:** **Smart inventory management for coffee shops, cafés, and restaurants.**
 > 
 > `Public`
 

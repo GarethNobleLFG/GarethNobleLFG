@@ -5,7 +5,7 @@
 > 
 > **Agentic AI Retirement Guide.**
 > 
-> `JavaScript` • `Public`
+> `Python` • `JavaScript` • `Public`
 
 > ## [Centrua/preppad](https://github.com/Centrua/preppad)
 > **Tech stack:** `React`

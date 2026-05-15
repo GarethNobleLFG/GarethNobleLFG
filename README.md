@@ -19,7 +19,7 @@
 > `Public`
 
 > ## [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
-> **Tech stack:** `Express` • `Node.js` • `PostgreSQL` • `Square API` • `Twilio API`
+> **Tech stack:** `Express` `Node.js` `PostgreSQL` `Square API` `Twilio API`
 >
 > **Languages:** `JavaScript`
 > 
@@ -28,7 +28,7 @@
 > `Public`
 
 > ## [Centrua/AI-Agent](https://github.com/Centrua/AI-Agent)
-> **Tech stack:** `Express` • `Node.js` • `Google API` • `Eleven Labs Agent Platform Framework`
+> **Tech stack:** `Express` `Node.js` `Google API` `Eleven Labs Agent Platform Framework`
 > 
 > **Languages:** `JavaScript`
 > 
@@ -37,7 +37,7 @@
 > `Private`
 
 > ## [google-sheets-summarizer-app](https://github.com/GarethNobleLFG/google-sheets-summarizer-app)
-> **Tech stack:** `React` • `Express` • `Node.js` • `PostgreSQL` • `Sequelize` • `OpenAI API` • `Google API`
+> **Tech stack:** `React` `Express` `Node.js` `PostgreSQL` `Sequelize` `OpenAI API` `Google API`
 >
 > **Languages:** `TypeScript`
 > 
@@ -46,7 +46,7 @@
 > `Public`
 
 > ## [recycle-agent](https://github.com/GarethNobleLFG/recycle-agent)
-> **Tech stack:** `Google Colab Training` • `Jupyter Notebook` • `Tensorflow` • `Keras` • `Gemini API` • `React` • `Fast API` • `Node.js`
+> **Tech stack:** `Google Colab Training` `Jupyter Notebook` `Tensorflow` `Keras` `Gemini API` `React` `Fast API` `Node.js`
 >
 > **Languages:** `Python`
 > 
@@ -55,16 +55,16 @@
 > `Public`
 
 > ## [android-to-desktop-notifications-forwarder](https://github.com/GarethNobleLFG/android-to-desktop-notifications-forwarder)
-> **Tech stack:** `Android SDK` • `Electron` • `React` • `Node.js` • `Express` • `MongoDB`
+> **Tech stack:** `Android SDK` `Electron` `React` `Node.js` `Express` `MongoDB`
 >
-> **Languages:** `Kotlin` • `JavaScript`
+> **Languages:** `Kotlin` `JavaScript`
 > 
 > **Description:** **Notification forwarding system utilizing custom built Android app that displays all push notifications as custom UI desktop notifications on Windows.**
 > 
 > `Public`
 
 > ## [opennote](https://github.com/GarethNobleLFG/opennote)
-> **Tech stack:** `React` • `Express` • `Node.js` • `MongoDB` • `TinyMCE API`
+> **Tech stack:** `React` `Express` `Node.js` `MongoDB` `TinyMCE API`
 >
 > **Languages:** `JavaScript`
 > 
@@ -73,7 +73,7 @@
 > `Public`
 
 > ## [brainflip](https://github.com/GarethNobleLFG/brainflip)
-> **Tech stack:** `React` • `Express` • `Node.js` • `OpenAI API`
+> **Tech stack:** `React` `Express` `Node.js` `OpenAI API`
 >
 > **Languages:** `JavaScript`
 > 
@@ -82,7 +82,7 @@
 > `Public`
 
 > ## [modern-frontend-designs](https://github.com/GarethNobleLFG/modern-frontend-designs)
-> **Tech stack:** `Next.js` • `React` • `TailwindCSS` • `ShadCN` • `Framer Motion`
+> **Tech stack:** `Next.js` `React` `TailwindCSS` `ShadCN` `Framer Motion`
 >
 > **Languages:** `TypeScript`
 > 

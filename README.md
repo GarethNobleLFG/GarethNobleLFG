@@ -3,7 +3,7 @@
 > ## [nestwise](https://github.com/GarethNobleLFG/nestwise)
 > **Tech stack:** `React` • `TailwindCSS` • `ShadCN` • `Framer Motion` • `Material UI` • `Python FastAPI` • `Node.js` • `MongoDB` • `LangChain` • `OpenAI API`
 > 
-> **Agentic-AI personal retirement planner.**
+> **Agentic AI Retirement Guide.**
 > 
 > `JavaScript` • `Public`
 

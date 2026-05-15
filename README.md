@@ -42,10 +42,10 @@
 > 
 > `Jupyter Notebook` • `Public`
 
-> ## [android-sms-forwarder](https://github.com/GarethNobleLFG/android-sms-forwarder)
-> **Tech stack:** `Android SDK` • `Electron` • `Node.js` • `Express` • `MongoDB`
+> ## [android-to-desktop-notifications-forwarder](https://github.com/GarethNobleLFG/android-to-desktop-notifications-forwarder)
+> **Tech stack:** `Android SDK` • `Electron` • `React` • `Node.js` • `Express` • `MongoDB`
 > 
-> **SMS forwarding system utilizing custom built Android app that displays text messages as desktop notifications on Windows.**
+> **Notification forwarding system utilizing custom built Android app that displays all push notifications as custom UI desktop notifications on Windows.**
 > 
 > `Kotlin` • `JavaScript` • `Public`
 

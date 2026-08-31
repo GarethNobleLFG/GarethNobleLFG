@@ -36,6 +36,17 @@
 > 
 > `Private`
 
+> ## [init-samples](https://github.com/AjinyaNaik/init-samples)
+> **Tech stack:** `React` `Express` `Node.js` `PostgreSQL` `Sequelize`
+>
+> **Languages:** `TypeScript`
+>
+> **Integrations:** `Stripe` `Supabase` `Supabase Buckets` `GCP` `Vercel`
+> 
+> Audio sample marketplace providing dynamic UI scenes for users and artists to purchase samples with secure digital delivery, all serviced through a custom built and deployed full stack web application.
+> 
+> `Public`
+
 > ## [google-sheets-summarizer-app](https://github.com/GarethNobleLFG/google-sheets-summarizer-app)
 > **Tech stack:** `React` `Express` `Node.js` `PostgreSQL` `Sequelize` `OpenAI API` `Google API`
 >

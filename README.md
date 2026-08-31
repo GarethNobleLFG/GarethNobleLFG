@@ -1,8 +1,10 @@
 ## Pinned repositories
 
 > ## [nestwise](https://github.com/GarethNobleLFG/nestwise)
-> **Tech stack:** `React` `Node.js` `TailwindCSS` `ShadCN` `Framer Motion` `Material UI` `Python FastAPI` `MongoDB` `LangChain` `OpenAI API`
-> 
+> **Tech stack:** `React` `Node.js` `TailwindCSS` `ShadCN` `Framer Motion` `Material UI` `Python FastAPI` `MongoDB` `LangChain`
+>
+> **Integrations:** `OpenAI API`
+>
 > **Languages:** `Python` `JavaScript`
 > 
 > Agentic AI Retirement Guide.
@@ -19,7 +21,9 @@
 > `Public`
 
 > ## [Centrua/preppad-api](https://github.com/Centrua/preppad-api)
-> **Tech stack:** `Express` `Node.js` `PostgreSQL` `Square API` `Twilio API`
+> **Tech stack:** `Express` `Node.js` `PostgreSQL`
+>
+> **Integrations:** `Square API` `Twilio API`
 >
 > **Languages:** `JavaScript`
 > 
@@ -30,6 +34,8 @@
 > ## [Centrua/AI-Agent](https://github.com/Centrua/AI-Agent)
 > **Tech stack:** `Express` `Node.js` `Google API` `Eleven Labs Agent Platform Framework`
 > 
+> **Integrations:** `Google API` `Eleven Labs Agent Platform Framework`
+>
 > **Languages:** `JavaScript`
 > 
 > AI caller agent for restaurants. Handles calls for reservations, orders, and more.
@@ -48,7 +54,9 @@
 > `Public`
 
 > ## [google-sheets-summarizer-app](https://github.com/GarethNobleLFG/google-sheets-summarizer-app)
-> **Tech stack:** `React` `Express` `Node.js` `PostgreSQL` `Sequelize` `OpenAI API` `Google API`
+> **Tech stack:** `React` `Express` `Node.js` `PostgreSQL` `Sequelize`
+> 
+> **Integrations:** `OpenAI API` `Google API`
 >
 > **Languages:** `TypeScript` `JavaScript`
 > 
@@ -57,7 +65,9 @@
 > `Public`
 
 > ## [recycle-agent](https://github.com/GarethNobleLFG/recycle-agent)
-> **Tech stack:** `Google Colab Training` `Jupyter Notebook` `Tensorflow` `Keras` `Gemini API` `React` `Fast API` `Node.js`
+> **Tech stack:** `Google Colab Training` `Jupyter Notebook` `Tensorflow` `Keras` `React` `Fast API` `Node.js`
+> 
+> **Integrations:** `Gemini API`
 >
 > **Languages:** `Python`
 > 
@@ -75,7 +85,9 @@
 > `Public`
 
 > ## [opennote](https://github.com/GarethNobleLFG/opennote)
-> **Tech stack:** `React` `Express` `Node.js` `MongoDB` `TinyMCE API`
+> **Tech stack:** `React` `Express` `Node.js` `MongoDB`
+> 
+> **Integrations:** `TinyMCE API`
 >
 > **Languages:** `JavaScript`
 > 
@@ -84,9 +96,12 @@
 > `Public`
 
 > ## [brainflip](https://github.com/GarethNobleLFG/brainflip)
-> **Tech stack:** `React` `Express` `Node.js` `OpenAI API`
+> **Tech stack:** `React` `Express` `Node.js` 
 >
-> **Languages:** `JavaScript`
+>  
+> **Integrations:** `OpenAI API`
+> 
+**Languages:** `JavaScript`
 > 
 > AI powered smart view flashcards app for studying.
 > 

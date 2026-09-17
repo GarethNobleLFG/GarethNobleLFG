@@ -101,7 +101,7 @@
 >  
 > **Integrations:** `OpenAI API`
 > 
-**Languages:** `JavaScript`
+> **Languages:** `JavaScript`
 > 
 > AI powered smart view flashcards app for studying.
 > 
